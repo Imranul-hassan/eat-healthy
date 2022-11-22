@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 80px;
+}
+
+.first-part {
+    display: flex;
+}
+
+span {
+    color: orange;
+}
+
+.header-design {
+    font-size: 50px;
+}
+
+.img-part {
+    width: 50%;
+    margin-right: 50px;
+}
+
+.txt-part {
+    padding-right: 5%;
+}
+
+.small-header {
+    padding-bottom: 30px;
+}
+
+.order-button {
+    text-decoration: none;
+    border: 3px solid bisque;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange, tomato);
+}
