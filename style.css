@@ -56,3 +56,24 @@ span {
 #second-part-header {
     font-size: 40px;
 }
+
+.third-header {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    text-align: justify;
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 40px 40px 40px 40px;
+    box-shadow: 10px 10px 40px gray
+}
+
+.third-imag-part {
+    width: 100%;
+}
