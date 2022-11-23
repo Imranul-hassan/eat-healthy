@@ -71,9 +71,44 @@ span {
     margin-left: 2%;
     margin-right: 2%;
     padding: 40px 40px 40px 40px;
-    box-shadow: 10px 10px 40px gray
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 25px;
 }
 
 .third-imag-part {
     width: 100%;
+}
+
+.last-title {
+    display: flex;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 30px;
+    box-shadow: 10px 10px 25px gray
+}
+
+.last-part {
+    text-align: center;
+    padding: 0px 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#last-section {
+    margin-top: 80px;
+}
+
+.last-header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+    padding: 20px;
+    background-image: linear-gradient(rgb(1, 1, 36), rgb(1, 1, 29));
+}
+
+.footer-header {
+    color: wheat;
 }
