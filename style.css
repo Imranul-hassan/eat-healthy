@@ -1,10 +1,11 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin-left: 80px;
 }
 
 .first-part {
     display: flex;
+    margin-bottom: 70px;
+    margin-left: 80px;
 }
 
 span {
@@ -20,6 +21,10 @@ span {
     margin-right: 50px;
 }
 
+#second-img {
+    padding-left: 40px;
+}
+
 .txt-part {
     padding-right: 5%;
 }
@@ -28,10 +33,26 @@ span {
     padding-bottom: 30px;
 }
 
+#text-design {
+    padding-bottom: 75px;
+}
+
 .order-button {
     text-decoration: none;
     border: 3px solid bisque;
     padding: 15px 30px;
     border-radius: 30px;
     background-image: linear-gradient(orange, tomato);
+}
+
+.second-part {
+    display: flex;
+    margin-bottom: 70px;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+
+}
+
+#second-part-header {
+    font-size: 40px;
 }
